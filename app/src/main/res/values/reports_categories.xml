@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="reports_categories_customer">
+        <item>Unpaid Bills For Today</item>
+        <item>Total Unpaid Bills</item>
+        <item>Total Paid Bills</item>
+        <item>Paid Bills For Last Week</item>
+        <item>Paid Bills For Last Month</item>
+    </string-array>
+</resources>

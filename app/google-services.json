@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "98126533095",
+    "firebase_url": "https://pakfoodproductstest.firebaseio.com",
+    "project_id": "pakfoodproductstest",
+    "storage_bucket": "pakfoodproductstest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98126533095:android:8ea1e0a004bb8ff45aed42",
+        "android_client_info": {
+          "package_name": "com.example.pakfoodproductstest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98126533095-e522de4eqimhfie7epjbi2h0puqg3no6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pakfoodproductstest",
+            "certificate_hash": "2cff6726087109a8e833b5f67584ef7600a1c66c"
+          }
+        },
+        {
+          "client_id": "98126533095-f03ob5mfra0ad2502fvtfc5at3gmk90u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ7djU_rqO9rP2A3ljqESTfKq5CLqR5V0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98126533095-f03ob5mfra0ad2502fvtfc5at3gmk90u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
