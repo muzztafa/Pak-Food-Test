@@ -5,7 +5,7 @@ It's a clone of an application I made for a client in Karachi. It's basically an
 Admin id: admin@test.com
 Admin pw: admin123
 
-Testing phone no: 12345678912
+Testing phone no: 02345678912 pw:123456
 
 Driver1 id: driver1
 Driver1 pw: driver
